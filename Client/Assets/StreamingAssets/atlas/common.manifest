@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1899419807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9d2b833b4f93c8266e141be19db09ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Atlas/Common/common_quality_4.png
+- Assets/Res/Atlas/Common/common_bg_1.png
+- Assets/Res/Atlas/Common/common_btn_normal_10.png
+- Assets/Res/Atlas/Common/common_btn_normal_2.png
+- Assets/Res/Atlas/Common/common_quality_2.png
+- Assets/Res/Atlas/Common/common_quality_5.png
+- Assets/Res/Atlas/Common/common_quality_1.png
+- Assets/Res/Atlas/Common/common_btn_normal_1.png
+- Assets/Res/Atlas/Common/common_quality_3.png
+Dependencies: []

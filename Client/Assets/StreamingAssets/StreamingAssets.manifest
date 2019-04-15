@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 473662351
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: config/data
+      Dependencies: {}
+    Info_1:
+      Name: atlas/common
+      Dependencies: {}
+    Info_2:
+      Name: atlas/item
+      Dependencies: {}

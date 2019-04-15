@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1171707397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 553f9805764916d64a1485b7bff71c48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Atlas/Item/10105.png
+- Assets/Res/Atlas/Item/10100.png
+- Assets/Res/Atlas/Item/10101.png
+- Assets/Res/Atlas/Item/10102.png
+- Assets/Res/Atlas/Item/10104.png
+- Assets/Res/Atlas/Item/10103.png
+- Assets/Res/Atlas/Item/10003.png
+- Assets/Res/Atlas/Item/10002.png
+- Assets/Res/Atlas/Item/10001.png
+Dependencies: []
