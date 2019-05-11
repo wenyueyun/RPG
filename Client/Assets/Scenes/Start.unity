@@ -423,6 +423,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1967352914}
   - component: {fileID: 1967352915}
+  - component: {fileID: 1967352916}
   m_Layer: 0
   m_Name: Game
   m_TagString: Untagged
@@ -454,3 +455,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ef5c25537c450d45873939f9873aca1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1967352916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1967352913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab89e7d8bb5dd04ca68139eb6e434d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Skin: {fileID: 0}
+  m_ConsoleWindow:
+    m_LockScroll: 1
+    m_MaxLine: 300
+    m_DateTimeFormat: '[HH:mm:ss.fff] '
+    m_InfoFilter: 1
+    m_WarningFilter: 1
+    m_ErrorFilter: 1
+    m_FatalFilter: 1
+    m_InfoColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    m_WarningColor:
+      serializedVersion: 2
+      rgba: 4278512639
+    m_ErrorColor:
+      serializedVersion: 2
+      rgba: 4278190335
+    m_FatalColor:
+      serializedVersion: 2
+      rgba: 4281545650
